@@ -1,0 +1,45 @@
+body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+}
+canvas {
+    background: black;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    border: 10px solid #7FFFD4;
+}
+button {
+    display: block;
+}
+.start {
+    height: 30px;
+    width: 60px;
+    text-align: center;
+    font: 20px Arial;
+    font-weight: bold;
+    color: #7FFFD4;
+    background-color: black;
+    border: 2px solid #7FFFD4;
+    border-radius: 5px;
+    margin: 5px 0 5px 0;
+    /* padding: 2px 0 3px 0; */
+}
+.start:hover {
+    background-color: #7FFFD4;
+    color: black;
+    cursor: pointer;
+}
+.nil {
+    color:#62fff7;
+    color:#3ab0ff;
+    color:#0080ff;
+    color:#004cff;
+    color:#4c58ff;
+    color:#a200ff;
+    color:#6a00ff;
+    color:#ec5a97;
+}
