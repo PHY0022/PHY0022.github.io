@@ -1,3 +1,3 @@
 # PHY0022.github.io
 
-[Brick Breaker](https://phy0022.github.io/BrickBreaker/)
+[Brick Breaker Demo](https://phy0022.github.io/BrickBreaker/)
